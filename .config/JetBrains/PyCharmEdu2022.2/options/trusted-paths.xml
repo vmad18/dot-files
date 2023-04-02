@@ -1,0 +1,16 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/ML/diffusion-main" value="true" />
+        <entry key="$USER_HOME$/Documents/mlgit/brudda" value="true" />
+        <entry key="$USER_HOME$/Documents/mlgit/ubiquitous-pancake" value="true" />
+        <entry key="$USER_HOME$/Documents/savesssh" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/transformerdrug" value="true" />
+        <entry key="$USER_HOME$/fs/ML/diffusion-main" value="true" />
+        <entry key="$USER_HOME$/fs/diffusion-main" value="true" />
+        <entry key="$USER_HOME$/fs/mlgit/ubiquitous-pancake" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

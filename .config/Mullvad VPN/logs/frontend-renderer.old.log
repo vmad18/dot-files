@@ -1,0 +1,13 @@
+[2023-01-21 21:06:27.000][verbose] Tunnel state: disconnected
+[2023-01-21 21:06:32.053][info] Logging in
+[2023-01-21 22:22:12.698][verbose] Tunnel state: connecting
+[2023-01-21 22:22:12.773][verbose] Tunnel state: connecting
+[2023-01-21 22:22:12.895][verbose] Tunnel state: connected
+[2023-01-21 22:24:05.136][verbose] Tunnel state: connecting
+[2023-01-21 22:24:05.158][verbose] Tunnel state: error
+[2023-01-21 22:24:08.275][verbose] Tunnel state: connecting
+[2023-01-21 22:24:08.346][verbose] Tunnel state: connected
+[2023-01-21 23:02:48.026][verbose] Tunnel state: disconnecting
+[2023-01-22 12:40:47.206][verbose] Tunnel state: error
+[2023-01-22 12:40:54.174][verbose] Tunnel state: connecting
+[2023-01-22 12:40:54.331][verbose] Tunnel state: connected

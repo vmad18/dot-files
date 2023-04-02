@@ -1,0 +1,12 @@
+2022-11-08 22:15:44.451 [info] Extension host with pid 372687 started
+2022-11-08 22:15:44.451 [info] Skipping acquiring lock for /home/vd71/.config/Code - OSS/User/workspaceStorage/2fb42435ff1600a97bcb6c3d3e083a85.
+2022-11-08 22:15:44.642 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-08 22:15:44.654 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-08 22:15:44.654 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-08 22:15:44.759 [info] Eager extensions activated
+2022-11-08 22:15:44.781 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-08 22:15:44.782 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-08 22:15:44.782 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-08 22:15:44.782 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2022-11-08 22:19:08.224 [info] Extension host terminating: received terminate message from renderer
+2022-11-08 22:19:08.229 [info] Extension host with pid 372687 exiting with code 0

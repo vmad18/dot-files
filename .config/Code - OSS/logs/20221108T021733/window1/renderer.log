@@ -1,0 +1,3 @@
+2022-11-08 02:17:38.217 [info] [perf] Render performance baseline is 71ms
+2022-11-08 02:18:04.611 [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {"name":"Canceled"}
+2022-11-08 02:21:11.524 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: application.experimental.rendererProfiling

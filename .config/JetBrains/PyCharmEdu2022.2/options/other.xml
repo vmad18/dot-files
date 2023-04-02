@@ -1,0 +1,88 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GHlXNPWoL9kGSDDS0a62qWjSgs">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2JRACGDwSpMrWmZOrq5A4P4SlwP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2JRB6eJ1Fn8gKQ2KnKmwFAnirxK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2KhH93Goz7wFpzZwegVivVwS6wB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Edu.CourseCreator.Enabled": "false",
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FindSplitterProportion": "0.3301818",
+    "GeneralSettings.initiallyConfigured": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharmEDU.InitialConfiguration": "true",
+    "PyCharmEDU.InitialConfiguration.V1": "true",
+    "PyCharmEDU.InitialConfiguration.V2": "true",
+    "PyCharmEDU.InitialConfiguration.V3": "true",
+    "PyCharmEDU.InitialConfiguration.V4": "true",
+    "PyCharmEDU.initialConfigurationShown": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "interp",
+    "ShowDocumentationInToolWindow": "true",
+    "StudyShowPopup": "true",
+    "appcds.runOnSecondStart": "PE-222.4345.35-80799c10b799b7339a708621d798f109b09c21b3bad5c2ed2e3108a5abe9609b",
+    "bundled.plugins.list.saved.version": "PE-222.4345.35",
+    "file.gist.reindex.count": "18",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/vd71/fs/mlgit/ubiquitous-pancake",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "PE-222.4345.35",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/vd71/Documents/mlgit/ubiquitous-pancake",
+      "/home/vd71/fs/mlgit/ubiquitous-pancake",
+      "/home/vd71/Documents/savesssh",
+      "/home/vd71/Documents/mlgit/brudda",
+      "/home/vd71/fs/ML/diffusion-main",
+      "/home/vd71/fs/diffusion-main",
+      "/home/vd71/Documents/ML/diffusion-main"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="diffusion-main-history" project-path="$USER_HOME$/Documents/ML/diffusion-main" last-access-time="1669643783866" />
+      <command-history-file filename="ubiquitous-pancake-history" project-path="$USER_HOME$/fs/mlgit/ubiquitous-pancake" last-access-time="1672032320140" />
+    </command-history-files>
+  </component>
+</application>

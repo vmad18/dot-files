@@ -1,0 +1,100 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/mcfun-bored">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mcfun-bored – plugin.yml" projectWorkspaceId="2IjvSyjVRV3Ilr8vb6XJuUwXuEZ">
+              <option name="activationTimestamp" value="1670707950569" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IE-222.4345.35" />
+              <option name="buildTimestamp" value="1666794461382" />
+              <frame x="12" y="54" width="1896" height="972" />
+              <option name="productionCode" value="IE" />
+              <option name="projectOpenTimestamp" value="1670707814829" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/mcproj">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mcproj – Main.kt" projectWorkspaceId="2Ijvty1eP1u66cnAOo3TZ8c6HXj">
+              <option name="activationTimestamp" value="1670708210427" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IE-222.4345.35" />
+              <option name="buildTimestamp" value="1666794461382" />
+              <frame x="12" y="54" width="1896" height="972" />
+              <option name="productionCode" value="IE" />
+              <option name="projectOpenTimestamp" value="1670708025305" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/fuck">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fuck – Energy.kt" projectWorkspaceId="2IjwIo6iFABADdNMr1wY3D9Gqsq">
+              <option name="activationTimestamp" value="1674264245609" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IE-222.4345.35" />
+              <option name="buildTimestamp" value="1666794461382" />
+              <frame x="12" y="54" width="1896" height="972" />
+              <option name="productionCode" value="IE" />
+              <option name="projectOpenTimestamp" value="1670708222574" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/WeatherModule">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WeatherModule – Main.kt [WeatherModule.app.main]" projectWorkspaceId="2KcCBo6bnWgqJFoDaOgtq9RefyY">
+              <option name="activationTimestamp" value="1674264846837" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IE-222.4345.35" />
+              <option name="buildTimestamp" value="1666794460436" />
+              <frame x="12" y="54" width="1896" height="972" />
+              <option name="productionCode" value="IE" />
+              <option name="projectOpenTimestamp" value="1674264566392" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WeatherModule">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WeatherModule – Main.java" projectWorkspaceId="2KcDDVe4GS5Fy0F4nvufPEZCSBk">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IE-222.4345.35" />
+              <option name="buildTimestamp" value="1666794471556" />
+              <frame x="12" y="54" width="1896" height="972" />
+              <option name="productionCode" value="IE" />
+              <option name="projectOpenTimestamp" value="1674264857420" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/WeatherModule2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WeatherModule2 – Weather.kt" projectWorkspaceId="2KcDHpiMOr4VBxhHFk0mBrnQ7DK">
+              <option name="activationTimestamp" value="1674330685185" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IE-222.4345.35" />
+              <option name="buildTimestamp" value="1666794471556" />
+              <frame x="12" y="54" width="1896" height="972" />
+              <option name="productionCode" value="IE" />
+              <option name="projectOpenTimestamp" value="1674264894308" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.config/WeatherModule2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WeatherModule2 – main.kt" opened="true" projectWorkspaceId="2KcDHpiMOr4VBxhHFk0mBrnQ7DK">
+              <option name="activationTimestamp" value="1680426630648" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IE-222.4345.35" />
+              <option name="buildTimestamp" value="1666794447573" />
+              <frame x="12" y="54" width="1896" height="972" />
+              <option name="productionCode" value="IE" />
+              <option name="projectOpenTimestamp" value="1674330685937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/.config/WeatherModule2" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

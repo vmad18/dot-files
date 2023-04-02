@@ -1,0 +1,13 @@
+[2023-01-21 21:06:25.841][verbose] Chromium sandbox is enabled
+[2023-01-21 21:06:25.845][info] Running version 2022.5
+[2023-01-21 21:06:26.063][info] Detected locale: en-US
+[2023-01-21 21:06:26.176][info] Connected to the daemon
+[2023-01-21 21:06:26.377][info] Skip autoconnect because GUI setting is disabled
+[2023-01-21 21:06:26.668][warning] Failed to update device info: 5 NOT_FOUND: Device not found
+[2023-01-21 21:06:26.960][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/vd71/.config/autostart/mullvad-vpn.desktop'
+[2023-01-21 22:06:26.234][verbose] GRPC Channel connectivity state changed to 2
+[2023-01-22 12:44:25.191][verbose] GRPC Channel connectivity state changed to 2
+[2023-01-22 12:58:59.193][info] before-quit received
+[2023-01-22 12:58:59.208][info] Quit initiated
+[2023-01-22 12:58:59.218][info] Unsubscribed from the daemon events
+[2023-01-22 12:58:59.219][verbose] GRPC Channel connectivity state changed to 4

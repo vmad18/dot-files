@@ -1,0 +1,15 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.config/WeatherModule2" value="true" />
+        <entry key="$USER_HOME$/Documents/WeatherModule" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/WeatherModule" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/WeatherModule2" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/fuck" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/mcfun-bored" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/mcproj" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
