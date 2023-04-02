@@ -1,2 +1,2 @@
 # dot-files
-my linux rice dots
+my linux rice dots (bspwm)
